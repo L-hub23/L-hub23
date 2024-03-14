@@ -2,6 +2,8 @@
 
 My name is Lea, and I’m currently in the MSc Applied Social Data Science at the London School of Economics
 
+#### MSc Courses
+
 | ID | Name | Languages | 
 | ------------- | ------------- | ------------- |
 | MY470  | Computer Programming  | Python, R | 
